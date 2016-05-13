@@ -1,0 +1,16 @@
+{
+	"font_size": 14,
+	"bold_folder_labels": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"scroll_past_end": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false
+}
