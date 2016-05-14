@@ -1,9 +1,9 @@
 <snippet>
 	<content>
 <![CDATA[
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 
-<html>
+<html lang="en">
 	
 	<head>
 		<meta charset="${1:UTF-8}">
